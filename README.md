@@ -59,8 +59,12 @@ At each time step, the system outputs a single discrete action:
 | 1         | Right |
 | 2         | Up    |
 | 3         | Down  |
-| 4         | Shoot      |
-| 5         | Do nothing |
+| 4         | Up and Right   |
+| 5         | Up and Left    |
+| 6         | Down and Right |
+| 7         | Down and Left  |
+| 8         | Shoot          |
+| 9         | Do nothing     |
 
 Actions are executed at fixed time intervals and are mutually exclusive.
 
@@ -135,10 +139,3 @@ Shape: (T,)
 Data type: int64
 
 Value range: ∈{0,1,2,3,4,5}
-ID	Action
-0	Left
-1	Right
-2	Up
-3	Down
-4	Shoot
-5   Do Nothing

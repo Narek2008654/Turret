@@ -6,7 +6,7 @@ CHANNELS = 3
 N_FRAMES = 8
 
 
-N_ACTIONS = 6 # left, right, up, down, shoot, nothing
+N_ACTIONS = 10 # left, right, up, down, up+right, up+left, down+right, down+left, shoot, nothing
 
 GAMMA = 0.99
 LR = 1e-4
