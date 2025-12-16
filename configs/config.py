@@ -1,0 +1,23 @@
+import numpy as np
+
+IMG_H = 128
+IMG_W = 128
+CHANNELS = 3
+N_FRAMES = 8
+
+
+N_ACTIONS = 6 # left, right, up, down, shoot, nothing
+
+GAMMA = 0.99
+LR = 1e-4
+BATCH_SIZE = 32
+REPLAY_SIZE = 100_000
+MIN_REPLAY = 5_000
+
+
+EPS_START = 1.0
+EPS_END = 0.05
+EPS_DECAY_STEPS = 200_000
+
+
+TARGET_UPDATE = 5000
