@@ -3,7 +3,7 @@ import numpy as np
 IMG_H = 128
 IMG_W = 128
 CHANNELS = 3
-N_FRAMES = 8
+N_FRAMES = 12
 
 
 N_ACTIONS = 10 # left, right, up, down, up+right, up+left, down+right, down+left, shoot, nothing

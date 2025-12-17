@@ -9,6 +9,8 @@ class DatasetEnv:
         self.frames = np.load(os.path.join(episode_dir, 'frames.npy'))
         self.actions = np.load(os.path.join(episode_dir, 'actions.npy'))
         self.t = 0 
+        self.prev_scale = None
+        self.prev_action = None
 
     def reset(self):
         self.t = N_FRAMES
@@ -17,7 +19,7 @@ class DatasetEnv:
     def _get_state(self):
         stack = self.frames[self.t-N_FRAMES:self.t]
         stack = np.array([
-        cv2.resize(f, (IMG_W, IMG_H)) for f in stack
+            cv2.resize(f, (IMG_W, IMG_H)) for f in stack
         ], dtype=np.float32) / 255.0
         return stack
 
@@ -54,12 +56,78 @@ class DatasetEnv:
             r_move = 0.0
 
         # 5. Smoothness penalty
-        if hasattr(self, "prev_action") and action != self.prev_action:
-            r_smooth = -0.05
+        if self.prev_action is not None and action != self.prev_action:
+            r_smooth = -0.005
         else:
             r_smooth = 0.0
 
-        reward = r_match + r_shoot + r_idle + r_move + r_smooth
+        # Progressive penalty based on apparent scale growth (proxy)
+        # compute scale proxies over multiple image regions to capture side approaches
+        frame = cv2.resize(self.frames[self.t], (IMG_W, IMG_H))
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY).astype(np.float32) / 255.0
+
+        regions = []
+        w, h = IMG_W, IMG_H
+        half = min(w, h) // 6
+        # 3x3 grid of centers to catch approaches from any direction
+        centers = []
+        xs = [w//6, w//2, (5*w)//6]
+        ys = [h//6, h//2, (5*h)//6]
+        for cx in xs:
+            for cy in ys:
+                centers.append((cx, cy))
+        for (cx, cy) in centers:
+            x0, x1 = max(0, cx-half), min(w, cx+half)
+            y0, y1 = max(0, cy-half), min(h, cy+half)
+            crop = gray[y0:y1, x0:x1]
+            if crop.size == 0:
+                regions.append(0.0)
+                continue
+            sx = cv2.Sobel(crop, cv2.CV_32F, 1, 0, ksize=3)
+            sy = cv2.Sobel(crop, cv2.CV_32F, 0, 1, ksize=3)
+            mag = np.mean(np.abs(sx)) + np.mean(np.abs(sy))
+            regions.append(float(mag))
+
+        max_scale = max(regions)
+        mean_scale = float(np.mean(regions))
+
+        if self.prev_scale is None:
+            scale_growth = 0.0
+        else:
+            scale_growth = max(0.0, max_scale - self.prev_scale)
+
+        r_scale = -2.0 * scale_growth
+
+        # Penalize dangerous in near-collision (high scale proxy) situations
+        r_near = 0.0
+        near_thresh = 0.12
+        if max_scale > near_thresh:
+            if action != expert_action:
+                r_near = -0.5
+            else:
+                r_near = 0.2
+
+        self.prev_scale = max_scale
+
+        # If nobody is approaching (all regions low) but there is people presence (edge energy),
+        # encourage shooting when action==8 so agent can shoot non-approaching targets too.
+        presence = float(np.mean(np.abs(cv2.Sobel(gray, cv2.CV_32F, 1, 0, ksize=3))))
+        presence += float(np.mean(np.abs(cv2.Sobel(gray, cv2.CV_32F, 0, 1, ksize=3))))
+        presence /= 2.0
+        no_approach_thresh = 0.03
+        shoot_presence_thresh = 0.02
+        r_shoot_extra = 0.0
+        if max_scale < no_approach_thresh and presence > shoot_presence_thresh:
+            if action == 8:
+                r_shoot_extra = 0.15
+
+        # Small positive reward for safe step
+        r_base = 0.01
+
+        reward = r_base + r_match + r_shoot + r_idle + r_move + r_smooth + r_scale + r_near + r_shoot_extra
+
+        # clip reward to [-1, 1]
+        reward = float(np.clip(reward, -1.0, 1.0))
 
         self.prev_action = action
         self.t += 1
