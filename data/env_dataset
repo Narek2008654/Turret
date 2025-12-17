@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import cv2
-from config import IMG_H, IMG_W, N_FRAMES
+from configs import IMG_H, IMG_W, N_FRAMES
 
 
 class DatasetEnv:
