@@ -1,0 +1,68 @@
+import numpy as np
+import os
+import cv2
+from config import IMG_H, IMG_W, N_FRAMES
+
+
+class DatasetEnv:
+    def __init__(self, episode_dir):
+        self.frames = np.load(os.path.join(episode_dir, 'frames.npy'))
+        self.actions = np.load(os.path.join(episode_dir, 'actions.npy'))
+        self.t = 0 
+
+    def reset(self):
+        self.t = N_FRAMES
+        return self._get_state()
+
+    def _get_state(self):
+        stack = self.frames[self.t-N_FRAMES:self.t]
+        stack = np.array([
+        cv2.resize(f, (IMG_W, IMG_H)) for f in stack
+        ], dtype=np.float32) / 255.0
+        return stack
+
+
+    def step(self, action):
+        expert_action = self.actions[self.t]
+
+        # 1. Action agreement (soft)
+        if action == expert_action:
+            r_match = 0.6
+        else:
+            r_match = -0.3
+
+        # 2. Shoot logic (action 8)
+        if action == 8:  # Shoot
+            if expert_action == 8:
+                r_shoot = 0.5
+            else:
+                r_shoot = -0.5
+        else:
+            r_shoot = 0.0
+
+        # 3. Do nothing penalty (action 9)
+        if action == 9 and expert_action != 9:
+            r_idle = -0.4
+        else:
+            r_idle = 0.0
+
+        # 4. Movement consistency reward
+        moving_actions = {0,1,2,3,4,5,6,7}
+        if action in moving_actions and expert_action in moving_actions:
+            r_move = 0.1
+        else:
+            r_move = 0.0
+
+        # 5. Smoothness penalty
+        if hasattr(self, "prev_action") and action != self.prev_action:
+            r_smooth = -0.05
+        else:
+            r_smooth = 0.0
+
+        reward = r_match + r_shoot + r_idle + r_move + r_smooth
+
+        self.prev_action = action
+        self.t += 1
+        done = self.t >= len(self.frames)
+
+        return self._get_state(), reward, done
