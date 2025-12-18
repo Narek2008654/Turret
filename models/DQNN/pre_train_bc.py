@@ -13,15 +13,15 @@ loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
 
 
 X, Y = [], []
-for ep in glob.glob('dataset/episodes/*'):
-env = DatasetEnv(ep)
-s = env.reset()
-done = False
-while not done:
-    a = env.actions[env.t]
-    X.append(s)
-    Y.append(a)
-    s, _, done = env.step(a)
+for ep in glob.glob('data/episodes/*'):
+    env = DatasetEnv(ep)
+    s = env.reset()
+    done = False
+    while not done:
+        a = env.actions[env.t]
+        X.append(s)
+        Y.append(a)
+        s, _, done = env.step(a)
 
 
 X = tf.convert_to_tensor(X)

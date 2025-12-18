@@ -44,7 +44,7 @@ class DatasetEnv:
 
         # 3. Do nothing penalty (action 9)
         if action == 9 and expert_action != 9:
-            r_idle = -0.4
+            r_idle = -1.0
         else:
             r_idle = 0.0
 
