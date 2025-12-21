@@ -1,0 +1,13 @@
+{
+    "motor_id": "yaw_motor",
+    "min_angle_deg": -120,
+    "max_angle_deg": 120,
+    "velocity": 0,
+    "acceleration": 0,
+    "deceleration": 0,
+    "pid_gains": [
+        0,
+        0,
+        0
+    ]
+}

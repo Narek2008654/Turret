@@ -1,0 +1,226 @@
+{
+    "516": [
+        {
+            "tick_id": 516,
+            "timestamp": 1750959413,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -37619.477844274494,
+                "y": 185342.76400221302,
+                "z": 16478.248163672237
+            }
+        }
+    ],
+    "554": [
+        {
+            "tick_id": 554,
+            "timestamp": 1750959414,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -37264.70433692535,
+                "y": 185388.20505907666,
+                "z": 16417.076857024505
+            }
+        }
+    ],
+    "583": [
+        {
+            "tick_id": 583,
+            "timestamp": 1750959415,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -37671.02780875674,
+                "y": 185664.22804328156,
+                "z": 16566.13565171377
+            }
+        }
+    ],
+    "687": [
+        {
+            "tick_id": 687,
+            "timestamp": 1750959418,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -37498.513382542435,
+                "y": 186069.13168281413,
+                "z": 16387.709863025844
+            }
+        }
+    ],
+    "808": [
+        {
+            "tick_id": 808,
+            "timestamp": 1750959422,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -33057.835330816764,
+                "y": 190455.51915774436,
+                "z": 16230.801303335546
+            }
+        }
+    ],
+    "996": [
+        {
+            "tick_id": 996,
+            "timestamp": 1750959428,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -29042.880936954512,
+                "y": 195627.02165240643,
+                "z": 16214.957181590093
+            }
+        }
+    ],
+    "1078": [
+        {
+            "tick_id": 1078,
+            "timestamp": 1750959431,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -29164.69811710479,
+                "y": 195281.84158047018,
+                "z": 16247.33076297908
+            }
+        }
+    ],
+    "1308": [
+        {
+            "tick_id": 1308,
+            "timestamp": 1750959438,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -34751.40034389976,
+                "y": 194326.22755242584,
+                "z": 17029.36828960254
+            }
+        }
+    ],
+    "1459": [
+        {
+            "tick_id": 1459,
+            "timestamp": 1750959443,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -37769.672552729215,
+                "y": 190310.72944284804,
+                "z": 16698.410662462513
+            }
+        }
+    ],
+    "1568": [
+        {
+            "tick_id": 1568,
+            "timestamp": 1750959447,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -36741.32758361238,
+                "y": 185876.8786605648,
+                "z": 16302.928187294052
+            }
+        }
+    ],
+    "1597": [
+        {
+            "tick_id": 1597,
+            "timestamp": 1750959448,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -37353.149394378706,
+                "y": 186246.99166889113,
+                "z": 16344.57517842534
+            }
+        }
+    ],
+    "1729": [
+        {
+            "tick_id": 1729,
+            "timestamp": 1750959452,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -36912.101109279785,
+                "y": 194145.92812501427,
+                "z": 17464.334857026817
+            }
+        }
+    ],
+    "1849": [
+        {
+            "tick_id": 1849,
+            "timestamp": 1750959456,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -39753.819154545454,
+                "y": 199325.91279651603,
+                "z": 18914.005704899853
+            }
+        }
+    ],
+    "2040": [
+        {
+            "tick_id": 2040,
+            "timestamp": 1750959462,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -28336.03343705885,
+                "y": 193878.1758637713,
+                "z": 16237.032241728593
+            }
+        }
+    ],
+    "2111": [
+        {
+            "tick_id": 2111,
+            "timestamp": 1750959464,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -28300.625227131124,
+                "y": 194228.29610866212,
+                "z": 16215.181086067792
+            }
+        }
+    ],
+    "2222": [
+        {
+            "tick_id": 2222,
+            "timestamp": 1750959467,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -29448.78795053744,
+                "y": 194776.6697959796,
+                "z": 16289.800643777544
+            }
+        }
+    ]
+}

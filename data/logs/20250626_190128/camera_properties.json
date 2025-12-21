@@ -1,0 +1,9 @@
+{
+    "camera_id": "camera",
+    "width": 1920,
+    "height": 1080,
+    "sensor_type": "RGB",
+    "field_of_view": 90,
+    "intrinsic": null,
+    "homography": null
+}

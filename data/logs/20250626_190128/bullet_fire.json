@@ -1,0 +1,422 @@
+{
+    "187": [
+        {
+            "tick_id": 187,
+            "timestamp": 1750964494,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -22551.04949692059,
+                "y": 201329.6138351816,
+                "z": 14872.87495112951
+            }
+        }
+    ],
+    "328": [
+        {
+            "tick_id": 328,
+            "timestamp": 1750964499,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -48024.40100390253,
+                "y": 192941.9462445883,
+                "z": 20061.23426030017
+            }
+        }
+    ],
+    "369": [
+        {
+            "tick_id": 369,
+            "timestamp": 1750964501,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_Obstacle_C",
+            "position": {
+                "x": -41729.89676403777,
+                "y": 190491.80039943923,
+                "z": 17465.115471089717
+            }
+        }
+    ],
+    "431": [
+        {
+            "tick_id": 431,
+            "timestamp": 1750964503,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -39963.67203803508,
+                "y": 191663.3648944955,
+                "z": 17217.46870801846
+            }
+        }
+    ],
+    "513": [
+        {
+            "tick_id": 513,
+            "timestamp": 1750964505,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -32421.44778808735,
+                "y": 189368.9986203639,
+                "z": 16039.137643108123
+            }
+        }
+    ],
+    "607": [
+        {
+            "tick_id": 607,
+            "timestamp": 1750964509,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -26645.28209363905,
+                "y": 186276.24598944106,
+                "z": 14862.957926907757
+            }
+        }
+    ],
+    "662": [
+        {
+            "tick_id": 662,
+            "timestamp": 1750964510,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -26863.408394673825,
+                "y": 186526.3256836274,
+                "z": 14902.304152003657
+            }
+        }
+    ],
+    "734": [
+        {
+            "tick_id": 734,
+            "timestamp": 1750964513,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -44386.38778085047,
+                "y": 196490.18796739768,
+                "z": 18971.43629427165
+            }
+        }
+    ],
+    "894": [
+        {
+            "tick_id": 894,
+            "timestamp": 1750964518,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -33880.32876106411,
+                "y": 190654.35920395274,
+                "z": 16364.188309821662
+            }
+        }
+    ],
+    "947": [
+        {
+            "tick_id": 947,
+            "timestamp": 1750964520,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -33080.06362591781,
+                "y": 190395.25826266783,
+                "z": 16230.077641904529
+            }
+        }
+    ],
+    "984": [
+        {
+            "tick_id": 984,
+            "timestamp": 1750964521,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -34037.63999610643,
+                "y": 190460.0602722961,
+                "z": 16511.26133096865
+            }
+        }
+    ],
+    "1069": [
+        {
+            "tick_id": 1069,
+            "timestamp": 1750964524,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -33253.45241045173,
+                "y": 190185.7220985539,
+                "z": 16225.785152406646
+            }
+        }
+    ],
+    "1209": [
+        {
+            "tick_id": 1209,
+            "timestamp": 1750964528,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_Obstacle_C",
+            "position": {
+                "x": -28196.671114173172,
+                "y": 186990.0161841423,
+                "z": 15184.77251303555
+            }
+        }
+    ],
+    "1466": [
+        {
+            "tick_id": 1466,
+            "timestamp": 1750964536,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -29218.633315070445,
+                "y": 186691.61843193838,
+                "z": 15242.400000760255
+            }
+        }
+    ],
+    "1614": [
+        {
+            "tick_id": 1614,
+            "timestamp": 1750964541,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -29321.605089046923,
+                "y": 191139.43688365442,
+                "z": 15962.807432010792
+            }
+        }
+    ],
+    "1718": [
+        {
+            "tick_id": 1718,
+            "timestamp": 1750964544,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -20095.363377159054,
+                "y": 190581.74757316927,
+                "z": 14975.210827411374
+            }
+        }
+    ],
+    "1800": [
+        {
+            "tick_id": 1800,
+            "timestamp": 1750964547,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -23634.28986289534,
+                "y": 190952.32092154544,
+                "z": 15650.511258815326
+            }
+        }
+    ],
+    "1845": [
+        {
+            "tick_id": 1845,
+            "timestamp": 1750964548,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -20867.034508373923,
+                "y": 190570.72071140603,
+                "z": 15055.259617462361
+            }
+        }
+    ],
+    "1987": [
+        {
+            "tick_id": 1987,
+            "timestamp": 1750964553,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -26314.60336632614,
+                "y": 186161.51137456566,
+                "z": 14836.45642676263
+            }
+        }
+    ],
+    "2060": [
+        {
+            "tick_id": 2060,
+            "timestamp": 1750964555,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -27853.610193757355,
+                "y": 186814.85922911766,
+                "z": 15124.534713149013
+            }
+        }
+    ],
+    "2200": [
+        {
+            "tick_id": 2200,
+            "timestamp": 1750964560,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -27050.325160069904,
+                "y": 190677.04204247362,
+                "z": 15766.180396329848
+            }
+        }
+    ],
+    "2328": [
+        {
+            "tick_id": 2328,
+            "timestamp": 1750964564,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -24393.23079677563,
+                "y": 189745.52642468555,
+                "z": 15429.198925927285
+            }
+        }
+    ],
+    "2390": [
+        {
+            "tick_id": 2390,
+            "timestamp": 1750964565,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -25732.209406417438,
+                "y": 190470.61312671352,
+                "z": 15644.584838599272
+            }
+        }
+    ],
+    "2500": [
+        {
+            "tick_id": 2500,
+            "timestamp": 1750964569,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -25469.45964005234,
+                "y": 189731.1120360145,
+                "z": 15496.87863610681
+            }
+        }
+    ],
+    "2628": [
+        {
+            "tick_id": 2628,
+            "timestamp": 1750964573,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -30502.83068060997,
+                "y": 185188.0960341487,
+                "z": 15273.733321408115
+            }
+        }
+    ],
+    "2977": [
+        {
+            "tick_id": 2977,
+            "timestamp": 1750964584,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -36048.331162961746,
+                "y": 198408.0048981922,
+                "z": 17851.556890832773
+            }
+        }
+    ],
+    "3196": [
+        {
+            "tick_id": 3196,
+            "timestamp": 1750964590,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "BP_NPC_Base_C",
+            "position": {
+                "x": -37046.804860229786,
+                "y": 197438.61077294752,
+                "z": 17930.250555391918
+            }
+        }
+    ],
+    "3523": [
+        {
+            "tick_id": 3523,
+            "timestamp": 1750964600,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -32541.88166581565,
+                "y": 191394.87161119495,
+                "z": 16332.959358065706
+            }
+        }
+    ],
+    "3724": [
+        {
+            "tick_id": 3724,
+            "timestamp": 1750964606,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -30589.047397999468,
+                "y": 190281.53573365667,
+                "z": 15933.888734580847
+            }
+        }
+    ],
+    "3865": [
+        {
+            "tick_id": 3865,
+            "timestamp": 1750964610,
+            "bullet_id": 0,
+            "shooter_name": "robot",
+            "target_name": "Landscape",
+            "position": {
+                "x": -29880.501814244963,
+                "y": 198745.7885851948,
+                "z": 16365.533023213216
+            }
+        }
+    ]
+}

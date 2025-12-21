@@ -1,0 +1,3376 @@
+{
+    "195": [
+        {
+            "tick_id": 195,
+            "timestamp": 1750964494,
+            "bullet_id": 0,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -39531.06356693939,
+                197608.97406470563,
+                18824.635044091683
+            ],
+            "damage": 25
+        }
+    ],
+    "199": [
+        {
+            "tick_id": 199,
+            "timestamp": 1750964495,
+            "bullet_id": 1,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -39557.236263315244,
+                197595.9177517,
+                18805.57165985065
+            ],
+            "damage": 25
+        }
+    ],
+    "202": [
+        {
+            "tick_id": 202,
+            "timestamp": 1750964495,
+            "bullet_id": 2,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -39564.06602070215,
+                197589.1072156378,
+                18805.93809615836
+            ],
+            "damage": 25
+        }
+    ],
+    "205": [
+        {
+            "tick_id": 205,
+            "timestamp": 1750964495,
+            "bullet_id": 3,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -39567.98345932549,
+                197583.05028237283,
+                18799.54850349708
+            ],
+            "damage": 25
+        }
+    ],
+    "211": [
+        {
+            "tick_id": 211,
+            "timestamp": 1750964495,
+            "bullet_id": 4,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24511.71923828125,
+                200932.86328125,
+                15187.482421875
+            ],
+            "damage": 25
+        }
+    ],
+    "214": [
+        {
+            "tick_id": 214,
+            "timestamp": 1750964495,
+            "bullet_id": 5,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24479.412109375,
+                200904.64453125,
+                15181.640625
+            ],
+            "damage": 25
+        }
+    ],
+    "217": [
+        {
+            "tick_id": 217,
+            "timestamp": 1750964495,
+            "bullet_id": 6,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24479.41064453125,
+                200904.646484375,
+                15181.640625
+            ],
+            "damage": 25
+        }
+    ],
+    "333": [
+        {
+            "tick_id": 333,
+            "timestamp": 1750964499,
+            "bullet_id": 7,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48091.58751842879,
+                192966.0007399268,
+                20094.29623673578
+            ],
+            "damage": 25
+        }
+    ],
+    "336": [
+        {
+            "tick_id": 336,
+            "timestamp": 1750964499,
+            "bullet_id": 8,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48116.384720578135,
+                192977.84232182076,
+                20104.877940720067
+            ],
+            "damage": 25
+        }
+    ],
+    "339": [
+        {
+            "tick_id": 339,
+            "timestamp": 1750964499,
+            "bullet_id": 9,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48141.22691565342,
+                192989.69656142,
+                20115.473993778647
+            ],
+            "damage": 25
+        }
+    ],
+    "342": [
+        {
+            "tick_id": 342,
+            "timestamp": 1750964500,
+            "bullet_id": 10,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48166.48468836735,
+                193001.76724880876,
+                20126.248873324053
+            ],
+            "damage": 25
+        }
+    ],
+    "347": [
+        {
+            "tick_id": 347,
+            "timestamp": 1750964500,
+            "bullet_id": 11,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -42192.98975199338,
+                190055.6074963782,
+                17554.157114453315
+            ],
+            "damage": 25
+        }
+    ],
+    "350": [
+        {
+            "tick_id": 350,
+            "timestamp": 1750964500,
+            "bullet_id": 12,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -42192.98981306482,
+                190055.60745828933,
+                17554.15717548847
+            ],
+            "damage": 25
+        }
+    ],
+    "353": [
+        {
+            "tick_id": 353,
+            "timestamp": 1750964500,
+            "bullet_id": 13,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -42192.98981306482,
+                190055.60745828933,
+                17554.15717548847
+            ],
+            "damage": 25
+        }
+    ],
+    "374": [
+        {
+            "tick_id": 374,
+            "timestamp": 1750964501,
+            "bullet_id": 14,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48462.010440605525,
+                193367.6247032032,
+                20287.558784377325
+            ],
+            "damage": 25
+        }
+    ],
+    "377": [
+        {
+            "tick_id": 377,
+            "timestamp": 1750964501,
+            "bullet_id": 15,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48482.75022917256,
+                193375.89297134426,
+                20294.6905861984
+            ],
+            "damage": 25
+        }
+    ],
+    "380": [
+        {
+            "tick_id": 380,
+            "timestamp": 1750964501,
+            "bullet_id": 16,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48507.0861408086,
+                193382.07008626676,
+                20302.780637247695
+            ],
+            "damage": 25
+        }
+    ],
+    "383": [
+        {
+            "tick_id": 383,
+            "timestamp": 1750964501,
+            "bullet_id": 17,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -48540.787939659014,
+                193383.16995880997,
+                20309.58657960296
+            ],
+            "damage": 25
+        }
+    ],
+    "388": [
+        {
+            "tick_id": 388,
+            "timestamp": 1750964501,
+            "bullet_id": 18,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -41792.44580078125,
+                190452.70361328125,
+                17450.04296875
+            ],
+            "damage": 25
+        }
+    ],
+    "391": [
+        {
+            "tick_id": 391,
+            "timestamp": 1750964501,
+            "bullet_id": 19,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -41792.44677734375,
+                190452.7041015625,
+                17450.04296875
+            ],
+            "damage": 25
+        }
+    ],
+    "394": [
+        {
+            "tick_id": 394,
+            "timestamp": 1750964501,
+            "bullet_id": 20,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -41792.4453125,
+                190452.70361328125,
+                17450.04296875
+            ],
+            "damage": 25
+        }
+    ],
+    "438": [
+        {
+            "tick_id": 438,
+            "timestamp": 1750964503,
+            "bullet_id": 21,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -41083.27971369011,
+                191958.88174877912,
+                17629.118152596326
+            ],
+            "damage": 25
+        }
+    ],
+    "441": [
+        {
+            "tick_id": 441,
+            "timestamp": 1750964503,
+            "bullet_id": 22,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -41083.279827428254,
+                191958.88177335946,
+                17629.118152596326
+            ],
+            "damage": 25
+        }
+    ],
+    "444": [
+        {
+            "tick_id": 444,
+            "timestamp": 1750964503,
+            "bullet_id": 23,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -41083.279755420925,
+                191958.88175459916,
+                17629.11807630238
+            ],
+            "damage": 25
+        }
+    ],
+    "447": [
+        {
+            "tick_id": 447,
+            "timestamp": 1750964503,
+            "bullet_id": 24,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -41083.27984851036,
+                191958.88177534073,
+                17629.118083931775
+            ],
+            "damage": 25
+        }
+    ],
+    "450": [
+        {
+            "tick_id": 450,
+            "timestamp": 1750964503,
+            "bullet_id": 25,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -40146.712890625,
+                191712.583984375,
+                17262.701171875
+            ],
+            "damage": 25
+        }
+    ],
+    "453": [
+        {
+            "tick_id": 453,
+            "timestamp": 1750964503,
+            "bullet_id": 26,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -40146.7119140625,
+                191712.583984375,
+                17262.701171875
+            ],
+            "damage": 25
+        }
+    ],
+    "456": [
+        {
+            "tick_id": 456,
+            "timestamp": 1750964503,
+            "bullet_id": 27,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -40146.7109375,
+                191712.583984375,
+                17262.69921875
+            ],
+            "damage": 25
+        }
+    ],
+    "522": [
+        {
+            "tick_id": 522,
+            "timestamp": 1750964506,
+            "bullet_id": 28,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33361.37656293217,
+                189622.33887188454,
+                16315.865050036688
+            ],
+            "damage": 25
+        }
+    ],
+    "526": [
+        {
+            "tick_id": 526,
+            "timestamp": 1750964506,
+            "bullet_id": 29,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33402.58919275963,
+                189637.1410947265,
+                16328.818669001785
+            ],
+            "damage": 25
+        }
+    ],
+    "529": [
+        {
+            "tick_id": 529,
+            "timestamp": 1750964506,
+            "bullet_id": 30,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33415.486214841454,
+                189661.14836099534,
+                16333.236090897513
+            ],
+            "damage": 25
+        }
+    ],
+    "533": [
+        {
+            "tick_id": 533,
+            "timestamp": 1750964506,
+            "bullet_id": 31,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33430.346262558785,
+                189686.47701108534,
+                16337.567940134963
+            ],
+            "damage": 25
+        }
+    ],
+    "536": [
+        {
+            "tick_id": 536,
+            "timestamp": 1750964506,
+            "bullet_id": 32,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -32626.677734375,
+                189480.197265625,
+                16074.810546875
+            ],
+            "damage": 25
+        }
+    ],
+    "539": [
+        {
+            "tick_id": 539,
+            "timestamp": 1750964506,
+            "bullet_id": 33,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -32626.6796875,
+                189480.197265625,
+                16074.810546875
+            ],
+            "damage": 25
+        }
+    ],
+    "542": [
+        {
+            "tick_id": 542,
+            "timestamp": 1750964506,
+            "bullet_id": 34,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -32643.421875,
+                189510.22705078125,
+                16081.625
+            ],
+            "damage": 25
+        }
+    ],
+    "545": [
+        {
+            "tick_id": 545,
+            "timestamp": 1750964506,
+            "bullet_id": 35,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -32643.419921875,
+                189510.2265625,
+                16081.625
+            ],
+            "damage": 25
+        }
+    ],
+    "618": [
+        {
+            "tick_id": 618,
+            "timestamp": 1750964509,
+            "bullet_id": 36,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26998.259765625,
+                186606.59985351562,
+                14926.923828125
+            ],
+            "damage": 25
+        }
+    ],
+    "621": [
+        {
+            "tick_id": 621,
+            "timestamp": 1750964509,
+            "bullet_id": 37,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26998.2578125,
+                186606.59912109375,
+                14926.923828125
+            ],
+            "damage": 25
+        }
+    ],
+    "625": [
+        {
+            "tick_id": 625,
+            "timestamp": 1750964509,
+            "bullet_id": 38,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26998.26171875,
+                186606.60034179688,
+                14926.923828125
+            ],
+            "damage": 25
+        }
+    ],
+    "629": [
+        {
+            "tick_id": 629,
+            "timestamp": 1750964509,
+            "bullet_id": 39,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26998.2626953125,
+                186606.60034179688,
+                14926.923828125
+            ],
+            "damage": 25
+        }
+    ],
+    "633": [
+        {
+            "tick_id": 633,
+            "timestamp": 1750964509,
+            "bullet_id": 40,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26998.2626953125,
+                186606.6005859375,
+                14926.923828125
+            ],
+            "damage": 25
+        }
+    ],
+    "673": [
+        {
+            "tick_id": 673,
+            "timestamp": 1750964511,
+            "bullet_id": 41,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -27941.308564569994,
+                186873.3693539287,
+                15192.555445913289
+            ],
+            "damage": 25
+        }
+    ],
+    "676": [
+        {
+            "tick_id": 676,
+            "timestamp": 1750964511,
+            "bullet_id": 42,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -27964.20657115034,
+                186881.44017863518,
+                15197.880566121168
+            ],
+            "damage": 25
+        }
+    ],
+    "680": [
+        {
+            "tick_id": 680,
+            "timestamp": 1750964511,
+            "bullet_id": 43,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -27993.12467016339,
+                186891.6548704277,
+                15204.155458752957
+            ],
+            "damage": 25
+        }
+    ],
+    "684": [
+        {
+            "tick_id": 684,
+            "timestamp": 1750964511,
+            "bullet_id": 44,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -28021.52376797337,
+                186901.70272214126,
+                15210.275560348955
+            ],
+            "damage": 25
+        }
+    ],
+    "688": [
+        {
+            "tick_id": 688,
+            "timestamp": 1750964511,
+            "bullet_id": 45,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26993.87548828125,
+                186571.35375976562,
+                14922.9765625
+            ],
+            "damage": 25
+        }
+    ],
+    "692": [
+        {
+            "tick_id": 692,
+            "timestamp": 1750964511,
+            "bullet_id": 46,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26993.8818359375,
+                186571.35546875,
+                14922.9765625
+            ],
+            "damage": 25
+        }
+    ],
+    "696": [
+        {
+            "tick_id": 696,
+            "timestamp": 1750964511,
+            "bullet_id": 47,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26993.87744140625,
+                186571.3544921875,
+                14922.9765625
+            ],
+            "damage": 25
+        }
+    ],
+    "740": [
+        {
+            "tick_id": 740,
+            "timestamp": 1750964513,
+            "bullet_id": 48,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -50795.1122125961,
+                195090.6741620418,
+                21331.914229003793
+            ],
+            "damage": 25
+        }
+    ],
+    "744": [
+        {
+            "tick_id": 744,
+            "timestamp": 1750964513,
+            "bullet_id": 49,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -50825.292062417546,
+                195083.32934165053,
+                21359.23209394474
+            ],
+            "damage": 25
+        }
+    ],
+    "748": [
+        {
+            "tick_id": 748,
+            "timestamp": 1750964513,
+            "bullet_id": 50,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -50857.46812998719,
+                195091.2247363978,
+                21384.502319071955
+            ],
+            "damage": 25
+        }
+    ],
+    "752": [
+        {
+            "tick_id": 752,
+            "timestamp": 1750964513,
+            "bullet_id": 51,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -50882.35942080904,
+                195081.6181634321,
+                21405.989048739742
+            ],
+            "damage": 25
+        }
+    ],
+    "758": [
+        {
+            "tick_id": 758,
+            "timestamp": 1750964513,
+            "bullet_id": 52,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -41964.7412109375,
+                197063.1943359375,
+                18704.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "762": [
+        {
+            "tick_id": 762,
+            "timestamp": 1750964514,
+            "bullet_id": 53,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -41867.458984375,
+                197057.24609375,
+                18714.205078125
+            ],
+            "damage": 25
+        }
+    ],
+    "766": [
+        {
+            "tick_id": 766,
+            "timestamp": 1750964514,
+            "bullet_id": 54,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -41848.984375,
+                197061.2900390625,
+                18715.505859375
+            ],
+            "damage": 25
+        }
+    ],
+    "904": [
+        {
+            "tick_id": 904,
+            "timestamp": 1750964518,
+            "bullet_id": 55,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33956.228515625,
+                190674.3134765625,
+                16371.771484375
+            ],
+            "damage": 25
+        }
+    ],
+    "908": [
+        {
+            "tick_id": 908,
+            "timestamp": 1750964518,
+            "bullet_id": 56,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33925.9384765625,
+                190596.775390625,
+                16358.111328125
+            ],
+            "damage": 25
+        }
+    ],
+    "912": [
+        {
+            "tick_id": 912,
+            "timestamp": 1750964518,
+            "bullet_id": 57,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33920.0712890625,
+                190548.92724609375,
+                16353.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "915": [
+        {
+            "tick_id": 915,
+            "timestamp": 1750964519,
+            "bullet_id": 58,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33920.0703125,
+                190548.9267578125,
+                16353.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "919": [
+        {
+            "tick_id": 919,
+            "timestamp": 1750964519,
+            "bullet_id": 59,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33920.0751953125,
+                190548.927734375,
+                16353.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "922": [
+        {
+            "tick_id": 922,
+            "timestamp": 1750964519,
+            "bullet_id": 60,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33920.076171875,
+                190548.9287109375,
+                16353.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "925": [
+        {
+            "tick_id": 925,
+            "timestamp": 1750964519,
+            "bullet_id": 61,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33920.0732421875,
+                190548.927734375,
+                16353.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "928": [
+        {
+            "tick_id": 928,
+            "timestamp": 1750964519,
+            "bullet_id": 62,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33920.076171875,
+                190548.92822265625,
+                16353.244140625
+            ],
+            "damage": 25
+        }
+    ],
+    "994": [
+        {
+            "tick_id": 994,
+            "timestamp": 1750964521,
+            "bullet_id": 63,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -34104.89041278436,
+                190470.87254848168,
+                16525.210528103282
+            ],
+            "damage": 25
+        }
+    ],
+    "998": [
+        {
+            "tick_id": 998,
+            "timestamp": 1750964521,
+            "bullet_id": 64,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -34124.44090144426,
+                190473.3207173974,
+                16529.81295595758
+            ],
+            "damage": 25
+        }
+    ],
+    "1002": [
+        {
+            "tick_id": 1002,
+            "timestamp": 1750964521,
+            "bullet_id": 65,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -34141.54110192058,
+                190475.1513585348,
+                16533.692228646185
+            ],
+            "damage": 25
+        }
+    ],
+    "1005": [
+        {
+            "tick_id": 1005,
+            "timestamp": 1750964522,
+            "bullet_id": 66,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -34150.4239538778,
+                190475.56945195457,
+                16535.456709399918
+            ],
+            "damage": 25
+        }
+    ],
+    "1010": [
+        {
+            "tick_id": 1010,
+            "timestamp": 1750964522,
+            "bullet_id": 67,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33162.173828125,
+                190294.173828125,
+                16230.837890625
+            ],
+            "damage": 25
+        }
+    ],
+    "1014": [
+        {
+            "tick_id": 1014,
+            "timestamp": 1750964522,
+            "bullet_id": 68,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33757.343583642454,
+                190503.99177593275,
+                16391.69950426261
+            ],
+            "damage": 25
+        }
+    ],
+    "1018": [
+        {
+            "tick_id": 1018,
+            "timestamp": 1750964522,
+            "bullet_id": 69,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33779.47923556176,
+                190506.98741513307,
+                16397.802928932546
+            ],
+            "damage": 25
+        }
+    ],
+    "1022": [
+        {
+            "tick_id": 1022,
+            "timestamp": 1750964522,
+            "bullet_id": 70,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -33812.42847422032,
+                190460.84734541495,
+                16403.484454958078
+            ],
+            "damage": 25
+        }
+    ],
+    "1026": [
+        {
+            "tick_id": 1026,
+            "timestamp": 1750964522,
+            "bullet_id": 71,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33272.62109375,
+                190113.8330078125,
+                16223.76171875
+            ],
+            "damage": 25
+        }
+    ],
+    "1030": [
+        {
+            "tick_id": 1030,
+            "timestamp": 1750964522,
+            "bullet_id": 72,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33171.08984375,
+                189787.39013671875,
+                16171.564453125
+            ],
+            "damage": 25
+        }
+    ],
+    "1079": [
+        {
+            "tick_id": 1079,
+            "timestamp": 1750964524,
+            "bullet_id": 73,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -34182.051426972386,
+                190426.8141279636,
+                16504.00251324972
+            ],
+            "damage": 25
+        }
+    ],
+    "1083": [
+        {
+            "tick_id": 1083,
+            "timestamp": 1750964524,
+            "bullet_id": 74,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33306.87890625,
+                190199.91650390625,
+                16226.578125
+            ],
+            "damage": 25
+        }
+    ],
+    "1087": [
+        {
+            "tick_id": 1087,
+            "timestamp": 1750964524,
+            "bullet_id": 75,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33306.880859375,
+                190199.91650390625,
+                16226.578125
+            ],
+            "damage": 25
+        }
+    ],
+    "1091": [
+        {
+            "tick_id": 1091,
+            "timestamp": 1750964524,
+            "bullet_id": 76,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33306.880859375,
+                190199.916015625,
+                16226.578125
+            ],
+            "damage": 25
+        }
+    ],
+    "1095": [
+        {
+            "tick_id": 1095,
+            "timestamp": 1750964524,
+            "bullet_id": 77,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -33916.2724609375,
+                190375.44140625,
+                16340.630859375
+            ],
+            "damage": 25
+        }
+    ],
+    "1220": [
+        {
+            "tick_id": 1220,
+            "timestamp": 1750964528,
+            "bullet_id": 78,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.48432791138,
+                186997.63689996526,
+                15183.249878849223
+            ],
+            "damage": 25
+        }
+    ],
+    "1224": [
+        {
+            "tick_id": 1224,
+            "timestamp": 1750964529,
+            "bullet_id": 79,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.484329725,
+                186997.6369005558,
+                15183.249909366801
+            ],
+            "damage": 25
+        }
+    ],
+    "1228": [
+        {
+            "tick_id": 1228,
+            "timestamp": 1750964529,
+            "bullet_id": 80,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.48432791138,
+                186997.63689996526,
+                15183.249878849223
+            ],
+            "damage": 25
+        }
+    ],
+    "1232": [
+        {
+            "tick_id": 1232,
+            "timestamp": 1750964529,
+            "bullet_id": 81,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.484329725,
+                186997.6369005558,
+                15183.24993988438
+            ],
+            "damage": 25
+        }
+    ],
+    "1236": [
+        {
+            "tick_id": 1236,
+            "timestamp": 1750964529,
+            "bullet_id": 82,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.484329725,
+                186997.6369005558,
+                15183.249878849223
+            ],
+            "damage": 25
+        }
+    ],
+    "1240": [
+        {
+            "tick_id": 1240,
+            "timestamp": 1750964529,
+            "bullet_id": 83,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.48432791138,
+                186997.63689996526,
+                15183.24993988438
+            ],
+            "damage": 25
+        }
+    ],
+    "1244": [
+        {
+            "tick_id": 1244,
+            "timestamp": 1750964529,
+            "bullet_id": 84,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.48432791138,
+                186997.63689996526,
+                15183.249817814067
+            ],
+            "damage": 25
+        }
+    ],
+    "1248": [
+        {
+            "tick_id": 1248,
+            "timestamp": 1750964529,
+            "bullet_id": 85,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28219.484332087242,
+                186997.63689330133,
+                15183.249878849223
+            ],
+            "damage": 25
+        }
+    ],
+    "1477": [
+        {
+            "tick_id": 1477,
+            "timestamp": 1750964537,
+            "bullet_id": 86,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -29261.398193359375,
+                186674.5439453125,
+                15251.978515625
+            ],
+            "damage": 25
+        }
+    ],
+    "1481": [
+        {
+            "tick_id": 1481,
+            "timestamp": 1750964537,
+            "bullet_id": 87,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -29261.40966796875,
+                186674.5478515625,
+                15251.98046875
+            ],
+            "damage": 25
+        }
+    ],
+    "1485": [
+        {
+            "tick_id": 1485,
+            "timestamp": 1750964537,
+            "bullet_id": 88,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -29261.419555664062,
+                186674.55151367188,
+                15251.982421875
+            ],
+            "damage": 25
+        }
+    ],
+    "1489": [
+        {
+            "tick_id": 1489,
+            "timestamp": 1750964537,
+            "bullet_id": 89,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29083.144288112715,
+                186603.9547007936,
+                15251.399674712293
+            ],
+            "damage": 25
+        }
+    ],
+    "1493": [
+        {
+            "tick_id": 1493,
+            "timestamp": 1750964537,
+            "bullet_id": 90,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29102.9808380915,
+                186607.37746199238,
+                15256.449017230283
+            ],
+            "damage": 25
+        }
+    ],
+    "1497": [
+        {
+            "tick_id": 1497,
+            "timestamp": 1750964537,
+            "bullet_id": 91,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29115.432317645576,
+                186608.06292326088,
+                15305.190757770899
+            ],
+            "damage": 25
+        }
+    ],
+    "1501": [
+        {
+            "tick_id": 1501,
+            "timestamp": 1750964538,
+            "bullet_id": 92,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29165.88926420982,
+                186599.35539060345,
+                15366.038124017708
+            ],
+            "damage": 25
+        }
+    ],
+    "1505": [
+        {
+            "tick_id": 1505,
+            "timestamp": 1750964538,
+            "bullet_id": 93,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -27932.164794921875,
+                186161.07690429688,
+                15003.263671875
+            ],
+            "damage": 25
+        }
+    ],
+    "1624": [
+        {
+            "tick_id": 1624,
+            "timestamp": 1750964541,
+            "bullet_id": 94,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -30230.41639883461,
+                191315.98123344532,
+                16181.05468775981
+            ],
+            "damage": 25
+        }
+    ],
+    "1628": [
+        {
+            "tick_id": 1628,
+            "timestamp": 1750964542,
+            "bullet_id": 95,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -30230.416401055427,
+                191315.981218349,
+                16181.05468775981
+            ],
+            "damage": 25
+        }
+    ],
+    "1631": [
+        {
+            "tick_id": 1631,
+            "timestamp": 1750964542,
+            "bullet_id": 96,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -30226.111831311366,
+                191342.4760494138,
+                16181.05468775981
+            ],
+            "damage": 25
+        }
+    ],
+    "1636": [
+        {
+            "tick_id": 1636,
+            "timestamp": 1750964542,
+            "bullet_id": 97,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -29278.6923828125,
+                191191.18017578125,
+                15968.9765625
+            ],
+            "damage": 25
+        }
+    ],
+    "1640": [
+        {
+            "tick_id": 1640,
+            "timestamp": 1750964542,
+            "bullet_id": 98,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29210.27152535218,
+                191182.4585586151,
+                16000.16070962881
+            ],
+            "damage": 25
+        }
+    ],
+    "1644": [
+        {
+            "tick_id": 1644,
+            "timestamp": 1750964542,
+            "bullet_id": 99,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29235.145469261897,
+                191187.65368068303,
+                16021.286811386182
+            ],
+            "damage": 25
+        }
+    ],
+    "1648": [
+        {
+            "tick_id": 1648,
+            "timestamp": 1750964542,
+            "bullet_id": 100,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29259.64116837182,
+                191192.78412953732,
+                16027.380977253575
+            ],
+            "damage": 25
+        }
+    ],
+    "1652": [
+        {
+            "tick_id": 1652,
+            "timestamp": 1750964542,
+            "bullet_id": 101,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -29284.598047257536,
+                191198.02781542082,
+                16063.265895609136
+            ],
+            "damage": 25
+        }
+    ],
+    "1656": [
+        {
+            "tick_id": 1656,
+            "timestamp": 1750964543,
+            "bullet_id": 102,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -28748.01708984375,
+                191106.3740234375,
+                15925.775390625
+            ],
+            "damage": 25
+        }
+    ],
+    "1660": [
+        {
+            "tick_id": 1660,
+            "timestamp": 1750964543,
+            "bullet_id": 103,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -28748.012939453125,
+                191106.373046875,
+                15925.775390625
+            ],
+            "damage": 25
+        }
+    ],
+    "1730": [
+        {
+            "tick_id": 1730,
+            "timestamp": 1750964545,
+            "bullet_id": 104,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -23036.1573857622,
+                190985.87296218646,
+                15565.415171718627
+            ],
+            "damage": 25
+        }
+    ],
+    "1734": [
+        {
+            "tick_id": 1734,
+            "timestamp": 1750964545,
+            "bullet_id": 105,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24133.1728515625,
+                191125.4736328125,
+                15619.607421875
+            ],
+            "damage": 25
+        }
+    ],
+    "1738": [
+        {
+            "tick_id": 1738,
+            "timestamp": 1750964545,
+            "bullet_id": 106,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24490.2216796875,
+                191173.07275390625,
+                15644.70703125
+            ],
+            "damage": 25
+        }
+    ],
+    "1742": [
+        {
+            "tick_id": 1742,
+            "timestamp": 1750964545,
+            "bullet_id": 107,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24490.2177734375,
+                191173.07275390625,
+                15644.70703125
+            ],
+            "damage": 25
+        }
+    ],
+    "1746": [
+        {
+            "tick_id": 1746,
+            "timestamp": 1750964545,
+            "bullet_id": 108,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24490.22509765625,
+                191173.0732421875,
+                15644.70703125
+            ],
+            "damage": 25
+        }
+    ],
+    "1750": [
+        {
+            "tick_id": 1750,
+            "timestamp": 1750964545,
+            "bullet_id": 109,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24490.22216796875,
+                191173.07275390625,
+                15644.70703125
+            ],
+            "damage": 25
+        }
+    ],
+    "1754": [
+        {
+            "tick_id": 1754,
+            "timestamp": 1750964546,
+            "bullet_id": 110,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -23405.3505859375,
+                190994.5654296875,
+                15516.39453125
+            ],
+            "damage": 25
+        }
+    ],
+    "1758": [
+        {
+            "tick_id": 1758,
+            "timestamp": 1750964546,
+            "bullet_id": 111,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -23405.337890625,
+                190994.5634765625,
+                15516.392578125
+            ],
+            "damage": 25
+        }
+    ],
+    "1762": [
+        {
+            "tick_id": 1762,
+            "timestamp": 1750964546,
+            "bullet_id": 112,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -23405.333984375,
+                190994.56298828125,
+                15516.392578125
+            ],
+            "damage": 25
+        }
+    ],
+    "1766": [
+        {
+            "tick_id": 1766,
+            "timestamp": 1750964546,
+            "bullet_id": 113,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -23405.34521484375,
+                190994.564453125,
+                15516.39453125
+            ],
+            "damage": 25
+        }
+    ],
+    "1770": [
+        {
+            "tick_id": 1770,
+            "timestamp": 1750964546,
+            "bullet_id": 114,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -23405.34423828125,
+                190994.564453125,
+                15516.39453125
+            ],
+            "damage": 25
+        }
+    ],
+    "1774": [
+        {
+            "tick_id": 1774,
+            "timestamp": 1750964546,
+            "bullet_id": 115,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -23420.698498824262,
+                190987.70327930816,
+                15541.43962995101
+            ],
+            "damage": 25
+        }
+    ],
+    "1778": [
+        {
+            "tick_id": 1778,
+            "timestamp": 1750964546,
+            "bullet_id": 116,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -23453.155725146433,
+                190989.94392571851,
+                15546.950928759568
+            ],
+            "damage": 25
+        }
+    ],
+    "1858": [
+        {
+            "tick_id": 1858,
+            "timestamp": 1750964549,
+            "bullet_id": 117,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -21283.0732421875,
+                190629.99560546875,
+                15129.681640625
+            ],
+            "damage": 25
+        }
+    ],
+    "1861": [
+        {
+            "tick_id": 1861,
+            "timestamp": 1750964549,
+            "bullet_id": 118,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -24088.477456175828,
+                190933.94642343017,
+                15738.526621858418
+            ],
+            "damage": 25
+        }
+    ],
+    "1865": [
+        {
+            "tick_id": 1865,
+            "timestamp": 1750964549,
+            "bullet_id": 119,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -24117.13382842478,
+                190886.93682235578,
+                15729.962756196797
+            ],
+            "damage": 25
+        }
+    ],
+    "1869": [
+        {
+            "tick_id": 1869,
+            "timestamp": 1750964549,
+            "bullet_id": 120,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -24117.133862067298,
+                190886.93689188611,
+                15729.962733308614
+            ],
+            "damage": 25
+        }
+    ],
+    "1999": [
+        {
+            "tick_id": 1999,
+            "timestamp": 1750964553,
+            "bullet_id": 121,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26068.83349609375,
+                185907.68676757812,
+                14760.03125
+            ],
+            "damage": 25
+        }
+    ],
+    "2003": [
+        {
+            "tick_id": 2003,
+            "timestamp": 1750964553,
+            "bullet_id": 122,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26068.83349609375,
+                185907.68701171875,
+                14760.03125
+            ],
+            "damage": 25
+        }
+    ],
+    "2007": [
+        {
+            "tick_id": 2007,
+            "timestamp": 1750964553,
+            "bullet_id": 123,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26199.07470703125,
+                186058.08935546875,
+                14803.849609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2011": [
+        {
+            "tick_id": 2011,
+            "timestamp": 1750964553,
+            "bullet_id": 124,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26199.07568359375,
+                186058.08984375,
+                14803.849609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2014": [
+        {
+            "tick_id": 2014,
+            "timestamp": 1750964554,
+            "bullet_id": 125,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26199.0791015625,
+                186058.09106445312,
+                14803.849609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2018": [
+        {
+            "tick_id": 2018,
+            "timestamp": 1750964554,
+            "bullet_id": 126,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26415.9970703125,
+                186200.34741210938,
+                14849.439453125
+            ],
+            "damage": 25
+        }
+    ],
+    "2022": [
+        {
+            "tick_id": 2022,
+            "timestamp": 1750964554,
+            "bullet_id": 127,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26514.7509765625,
+                186299.03295898438,
+                14863.6015625
+            ],
+            "damage": 25
+        }
+    ],
+    "2026": [
+        {
+            "tick_id": 2026,
+            "timestamp": 1750964554,
+            "bullet_id": 128,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -27569.195488562145,
+                186717.7015769623,
+                15122.08352425343
+            ],
+            "damage": 25
+        }
+    ],
+    "2030": [
+        {
+            "tick_id": 2030,
+            "timestamp": 1750964554,
+            "bullet_id": 129,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -27604.655516316227,
+                186728.70683371963,
+                15114.928654135134
+            ],
+            "damage": 25
+        }
+    ],
+    "2034": [
+        {
+            "tick_id": 2034,
+            "timestamp": 1750964554,
+            "bullet_id": 130,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -27639.878051089232,
+                186739.66091969647,
+                15124.413702803822
+            ],
+            "damage": 25
+        }
+    ],
+    "2038": [
+        {
+            "tick_id": 2038,
+            "timestamp": 1750964554,
+            "bullet_id": 131,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28241.87809440029,
+                186976.78420194474,
+                15124.133759464457
+            ],
+            "damage": 25
+        }
+    ],
+    "2042": [
+        {
+            "tick_id": 2042,
+            "timestamp": 1750964554,
+            "bullet_id": 132,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28241.87809676253,
+                186976.78419469026,
+                15107.833039249614
+            ],
+            "damage": 25
+        }
+    ],
+    "2046": [
+        {
+            "tick_id": 2046,
+            "timestamp": 1750964555,
+            "bullet_id": 133,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28241.87809440029,
+                186976.78420194474,
+                15107.832978214457
+            ],
+            "damage": 25
+        }
+    ],
+    "2049": [
+        {
+            "tick_id": 2049,
+            "timestamp": 1750964555,
+            "bullet_id": 134,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28241.87809676253,
+                186976.78419469026,
+                15107.833039249614
+            ],
+            "damage": 25
+        }
+    ],
+    "2072": [
+        {
+            "tick_id": 2072,
+            "timestamp": 1750964555,
+            "bullet_id": 135,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25730.69970703125,
+                186039.52075195312,
+                14850.642578125
+            ],
+            "damage": 25
+        }
+    ],
+    "2076": [
+        {
+            "tick_id": 2076,
+            "timestamp": 1750964556,
+            "bullet_id": 136,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25600.84814453125,
+                185995.10961914062,
+                14852.6484375
+            ],
+            "damage": 25
+        }
+    ],
+    "2080": [
+        {
+            "tick_id": 2080,
+            "timestamp": 1750964556,
+            "bullet_id": 137,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25600.85205078125,
+                185995.11108398438,
+                14852.6484375
+            ],
+            "damage": 25
+        }
+    ],
+    "2084": [
+        {
+            "tick_id": 2084,
+            "timestamp": 1750964556,
+            "bullet_id": 138,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25976.50439453125,
+                186123.7197265625,
+                14862.568359375
+            ],
+            "damage": 25
+        }
+    ],
+    "2087": [
+        {
+            "tick_id": 2087,
+            "timestamp": 1750964556,
+            "bullet_id": 139,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26741.482421875,
+                186410.4404296875,
+                14870.517578125
+            ],
+            "damage": 25
+        }
+    ],
+    "2091": [
+        {
+            "tick_id": 2091,
+            "timestamp": 1750964556,
+            "bullet_id": 140,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28245.24903569413,
+                186913.57409022143,
+                15184.775376285746
+            ],
+            "damage": 25
+        }
+    ],
+    "2095": [
+        {
+            "tick_id": 2095,
+            "timestamp": 1750964556,
+            "bullet_id": 141,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28254.245320224923,
+                186916.63328927694,
+                15175.277527775004
+            ],
+            "damage": 25
+        }
+    ],
+    "2099": [
+        {
+            "tick_id": 2099,
+            "timestamp": 1750964556,
+            "bullet_id": 142,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28254.245319634363,
+                186916.63329109055,
+                15175.27758881016
+            ],
+            "damage": 25
+        }
+    ],
+    "2103": [
+        {
+            "tick_id": 2103,
+            "timestamp": 1750964556,
+            "bullet_id": 143,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28254.245320815484,
+                186916.6332874633,
+                15175.277527775004
+            ],
+            "damage": 25
+        }
+    ],
+    "2107": [
+        {
+            "tick_id": 2107,
+            "timestamp": 1750964557,
+            "bullet_id": 144,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28254.245322038543,
+                186916.6332898675,
+                15175.277581180766
+            ],
+            "damage": 25
+        }
+    ],
+    "2111": [
+        {
+            "tick_id": 2111,
+            "timestamp": 1750964557,
+            "bullet_id": 145,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28254.245320815484,
+                186916.6332874633,
+                15175.27758881016
+            ],
+            "damage": 25
+        }
+    ],
+    "2115": [
+        {
+            "tick_id": 2115,
+            "timestamp": 1750964557,
+            "bullet_id": 146,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -28254.245321447983,
+                186916.63329168112,
+                15175.277581180766
+            ],
+            "damage": 25
+        }
+    ],
+    "2211": [
+        {
+            "tick_id": 2211,
+            "timestamp": 1750964560,
+            "bullet_id": 147,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -27148.66015625,
+                190696.689453125,
+                15774.96875
+            ],
+            "damage": 25
+        }
+    ],
+    "2215": [
+        {
+            "tick_id": 2215,
+            "timestamp": 1750964560,
+            "bullet_id": 148,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26973.35302734375,
+                190666.6708984375,
+                15765.634765625
+            ],
+            "damage": 25
+        }
+    ],
+    "2219": [
+        {
+            "tick_id": 2219,
+            "timestamp": 1750964560,
+            "bullet_id": 149,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26556.18359375,
+                190596.666015625,
+                15715.375
+            ],
+            "damage": 25
+        }
+    ],
+    "2223": [
+        {
+            "tick_id": 2223,
+            "timestamp": 1750964560,
+            "bullet_id": 150,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26556.21875,
+                190596.671875,
+                15715.3828125
+            ],
+            "damage": 25
+        }
+    ],
+    "2227": [
+        {
+            "tick_id": 2227,
+            "timestamp": 1750964560,
+            "bullet_id": 151,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26556.17724609375,
+                190596.6650390625,
+                15715.375
+            ],
+            "damage": 25
+        }
+    ],
+    "2231": [
+        {
+            "tick_id": 2231,
+            "timestamp": 1750964560,
+            "bullet_id": 152,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26556.255859375,
+                190596.67822265625,
+                15715.390625
+            ],
+            "damage": 25
+        }
+    ],
+    "2235": [
+        {
+            "tick_id": 2235,
+            "timestamp": 1750964561,
+            "bullet_id": 153,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -26556.19140625,
+                190596.6669921875,
+                15715.376953125
+            ],
+            "damage": 25
+        }
+    ],
+    "2239": [
+        {
+            "tick_id": 2239,
+            "timestamp": 1750964561,
+            "bullet_id": 154,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -26823.160456705704,
+                190497.72839964944,
+                15875.593858908716
+            ],
+            "damage": 25
+        }
+    ],
+    "2243": [
+        {
+            "tick_id": 2243,
+            "timestamp": 1750964561,
+            "bullet_id": 155,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25578.40478515625,
+                190290.953125,
+                15604.51171875
+            ],
+            "damage": 25
+        }
+    ],
+    "2248": [
+        {
+            "tick_id": 2248,
+            "timestamp": 1750964561,
+            "bullet_id": 156,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25578.40380859375,
+                190290.95263671875,
+                15604.51171875
+            ],
+            "damage": 25
+        }
+    ],
+    "2252": [
+        {
+            "tick_id": 2252,
+            "timestamp": 1750964561,
+            "bullet_id": 157,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25578.40380859375,
+                190290.95263671875,
+                15604.51171875
+            ],
+            "damage": 25
+        }
+    ],
+    "2256": [
+        {
+            "tick_id": 2256,
+            "timestamp": 1750964561,
+            "bullet_id": 158,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25578.40478515625,
+                190290.953125,
+                15604.51171875
+            ],
+            "damage": 25
+        }
+    ],
+    "2260": [
+        {
+            "tick_id": 2260,
+            "timestamp": 1750964561,
+            "bullet_id": 159,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25653.01318359375,
+                190303.80908203125,
+                15604.599609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2264": [
+        {
+            "tick_id": 2264,
+            "timestamp": 1750964561,
+            "bullet_id": 160,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25653.013671875,
+                190303.80908203125,
+                15604.599609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2267": [
+        {
+            "tick_id": 2267,
+            "timestamp": 1750964562,
+            "bullet_id": 161,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25653.01953125,
+                190303.810546875,
+                15604.599609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2272": [
+        {
+            "tick_id": 2272,
+            "timestamp": 1750964562,
+            "bullet_id": 162,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25653.0126953125,
+                190303.80908203125,
+                15604.599609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2276": [
+        {
+            "tick_id": 2276,
+            "timestamp": 1750964562,
+            "bullet_id": 163,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25653.01513671875,
+                190303.8095703125,
+                15604.599609375
+            ],
+            "damage": 25
+        }
+    ],
+    "2280": [
+        {
+            "tick_id": 2280,
+            "timestamp": 1750964562,
+            "bullet_id": 164,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24957.3232421875,
+                189946.41357421875,
+                15503.4921875
+            ],
+            "damage": 25
+        }
+    ],
+    "2284": [
+        {
+            "tick_id": 2284,
+            "timestamp": 1750964562,
+            "bullet_id": 165,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24712.70263671875,
+                189831.63818359375,
+                15461.83984375
+            ],
+            "damage": 25
+        }
+    ],
+    "2288": [
+        {
+            "tick_id": 2288,
+            "timestamp": 1750964562,
+            "bullet_id": 166,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24679.5576171875,
+                189791.75537109375,
+                15452.791015625
+            ],
+            "damage": 25
+        }
+    ],
+    "2292": [
+        {
+            "tick_id": 2292,
+            "timestamp": 1750964562,
+            "bullet_id": 167,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25148.1591796875,
+                190152.4990234375,
+                15554.267578125
+            ],
+            "damage": 25
+        }
+    ],
+    "2295": [
+        {
+            "tick_id": 2295,
+            "timestamp": 1750964562,
+            "bullet_id": 168,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25785.3173828125,
+                190478.00244140625,
+                15647.458984375
+            ],
+            "damage": 25
+        }
+    ],
+    "2299": [
+        {
+            "tick_id": 2299,
+            "timestamp": 1750964563,
+            "bullet_id": 169,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25837.23095703125,
+                190552.17822265625,
+                15661.984375
+            ],
+            "damage": 25
+        }
+    ],
+    "2340": [
+        {
+            "tick_id": 2340,
+            "timestamp": 1750964564,
+            "bullet_id": 170,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24511.03271484375,
+                189768.64208984375,
+                15441.236328125
+            ],
+            "damage": 25
+        }
+    ],
+    "2344": [
+        {
+            "tick_id": 2344,
+            "timestamp": 1750964564,
+            "bullet_id": 171,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24525.080078125,
+                189840.4453125,
+                15447.279296875
+            ],
+            "damage": 25
+        }
+    ],
+    "2348": [
+        {
+            "tick_id": 2348,
+            "timestamp": 1750964564,
+            "bullet_id": 172,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -24525.07666015625,
+                189840.44482421875,
+                15447.279296875
+            ],
+            "damage": 25
+        }
+    ],
+    "2351": [
+        {
+            "tick_id": 2351,
+            "timestamp": 1750964564,
+            "bullet_id": 173,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -25821.591598107865,
+                190121.47720295037,
+                15754.75130759863
+            ],
+            "damage": 25
+        }
+    ],
+    "2355": [
+        {
+            "tick_id": 2355,
+            "timestamp": 1750964564,
+            "bullet_id": 174,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -25858.421387749207,
+                190123.94188768874,
+                15760.898067784028
+            ],
+            "damage": 25
+        }
+    ],
+    "2360": [
+        {
+            "tick_id": 2360,
+            "timestamp": 1750964564,
+            "bullet_id": 175,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -25895.490812417178,
+                190125.42463112576,
+                15766.837997635039
+            ],
+            "damage": 25
+        }
+    ],
+    "2402": [
+        {
+            "tick_id": 2402,
+            "timestamp": 1750964566,
+            "bullet_id": 176,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -26415.7985366149,
+                190584.6434709272,
+                15806.991434650789
+            ],
+            "damage": 25
+        }
+    ],
+    "2406": [
+        {
+            "tick_id": 2406,
+            "timestamp": 1750964566,
+            "bullet_id": 177,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25815.85791015625,
+                190487.49365234375,
+                15649.318359375
+            ],
+            "damage": 25
+        }
+    ],
+    "2410": [
+        {
+            "tick_id": 2410,
+            "timestamp": 1750964566,
+            "bullet_id": 178,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25815.85009765625,
+                190487.4921875,
+                15649.31640625
+            ],
+            "damage": 25
+        }
+    ],
+    "2414": [
+        {
+            "tick_id": 2414,
+            "timestamp": 1750964566,
+            "bullet_id": 179,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25815.85400390625,
+                190487.4931640625,
+                15649.318359375
+            ],
+            "damage": 25
+        }
+    ],
+    "2418": [
+        {
+            "tick_id": 2418,
+            "timestamp": 1750964566,
+            "bullet_id": 180,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25815.85009765625,
+                190487.4921875,
+                15649.31640625
+            ],
+            "damage": 25
+        }
+    ],
+    "2422": [
+        {
+            "tick_id": 2422,
+            "timestamp": 1750964566,
+            "bullet_id": 181,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25815.85498046875,
+                190487.4931640625,
+                15649.318359375
+            ],
+            "damage": 25
+        }
+    ],
+    "2512": [
+        {
+            "tick_id": 2512,
+            "timestamp": 1750964569,
+            "bullet_id": 182,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25540.2509765625,
+                189747.388671875,
+                15498.884765625
+            ],
+            "damage": 25
+        }
+    ],
+    "2516": [
+        {
+            "tick_id": 2516,
+            "timestamp": 1750964569,
+            "bullet_id": 183,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25540.251953125,
+                189747.38916015625,
+                15498.884765625
+            ],
+            "damage": 25
+        }
+    ],
+    "2520": [
+        {
+            "tick_id": 2520,
+            "timestamp": 1750964569,
+            "bullet_id": 184,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -25750.74365234375,
+                189822.5947265625,
+                15515.875
+            ],
+            "damage": 25
+        }
+    ],
+    "2523": [
+        {
+            "tick_id": 2523,
+            "timestamp": 1750964569,
+            "bullet_id": 185,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -27256.101181167618,
+                190357.91275091647,
+                15840.453995900134
+            ],
+            "damage": 25
+        }
+    ],
+    "2527": [
+        {
+            "tick_id": 2527,
+            "timestamp": 1750964570,
+            "bullet_id": 186,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -27252.638034632924,
+                190450.58287849202,
+                15828.35315056322
+            ],
+            "damage": 25
+        }
+    ],
+    "2639": [
+        {
+            "tick_id": 2639,
+            "timestamp": 1750964573,
+            "bullet_id": 187,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30567.143127441406,
+                185282.3087158203,
+                15285.517578125
+            ],
+            "damage": 25
+        }
+    ],
+    "2643": [
+        {
+            "tick_id": 2643,
+            "timestamp": 1750964573,
+            "bullet_id": 188,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -31416.02198281139,
+                185872.31598516426,
+                15546.924154585344
+            ],
+            "damage": 25
+        }
+    ],
+    "2647": [
+        {
+            "tick_id": 2647,
+            "timestamp": 1750964573,
+            "bullet_id": 189,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31004.999938964844,
+                185844.41870117188,
+                15390.31640625
+            ],
+            "damage": 25
+        }
+    ],
+    "2651": [
+        {
+            "tick_id": 2651,
+            "timestamp": 1750964573,
+            "bullet_id": 190,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31077.93519592285,
+                185936.93188476562,
+                15404.2265625
+            ],
+            "damage": 25
+        }
+    ],
+    "2655": [
+        {
+            "tick_id": 2655,
+            "timestamp": 1750964574,
+            "bullet_id": 191,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31077.94093322754,
+                185936.93432617188,
+                15404.228515625
+            ],
+            "damage": 25
+        }
+    ],
+    "2659": [
+        {
+            "tick_id": 2659,
+            "timestamp": 1750964574,
+            "bullet_id": 192,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31077.94367980957,
+                185936.935546875,
+                15404.228515625
+            ],
+            "damage": 25
+        }
+    ],
+    "2663": [
+        {
+            "tick_id": 2663,
+            "timestamp": 1750964574,
+            "bullet_id": 193,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31065.9083404541,
+                185901.18701171875,
+                15397.376953125
+            ],
+            "damage": 25
+        }
+    ],
+    "2667": [
+        {
+            "tick_id": 2667,
+            "timestamp": 1750964574,
+            "bullet_id": 194,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30916.2509765625,
+                185531.23071289062,
+                15344.75390625
+            ],
+            "damage": 25
+        }
+    ],
+    "2671": [
+        {
+            "tick_id": 2671,
+            "timestamp": 1750964574,
+            "bullet_id": 195,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30916.25030517578,
+                185531.23046875,
+                15344.75390625
+            ],
+            "damage": 25
+        }
+    ],
+    "2986": [
+        {
+            "tick_id": 2986,
+            "timestamp": 1750964584,
+            "bullet_id": 196,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -36079.48157996368,
+                198402.60980753193,
+                17862.43812976096
+            ],
+            "damage": 25
+        }
+    ],
+    "2990": [
+        {
+            "tick_id": 2990,
+            "timestamp": 1750964584,
+            "bullet_id": 197,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -36079.48159697034,
+                198402.60983759904,
+                17862.438114502173
+            ],
+            "damage": 25
+        }
+    ],
+    "2994": [
+        {
+            "tick_id": 2994,
+            "timestamp": 1750964584,
+            "bullet_id": 198,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -36079.48155802745,
+                198402.60975623556,
+                17862.438114502173
+            ],
+            "damage": 25
+        }
+    ],
+    "2998": [
+        {
+            "tick_id": 2998,
+            "timestamp": 1750964584,
+            "bullet_id": 199,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -36079.48156141426,
+                198402.6098964783,
+                17862.438068725805
+            ],
+            "damage": 25
+        }
+    ],
+    "3002": [
+        {
+            "tick_id": 3002,
+            "timestamp": 1750964584,
+            "bullet_id": 200,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -35150.7607421875,
+                198614.3037109375,
+                17617.359375
+            ],
+            "damage": 25
+        }
+    ],
+    "3006": [
+        {
+            "tick_id": 3006,
+            "timestamp": 1750964584,
+            "bullet_id": 201,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -35150.7568359375,
+                198614.3037109375,
+                17617.359375
+            ],
+            "damage": 25
+        }
+    ],
+    "3205": [
+        {
+            "tick_id": 3205,
+            "timestamp": 1750964590,
+            "bullet_id": 202,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.05542801286,
+                197408.13126392354,
+                17960.083986922527
+            ],
+            "damage": 25
+        }
+    ],
+    "3209": [
+        {
+            "tick_id": 3209,
+            "timestamp": 1750964591,
+            "bullet_id": 203,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.05542728543,
+                197408.13126017884,
+                17960.083986922527
+            ],
+            "damage": 25
+        }
+    ],
+    "3213": [
+        {
+            "tick_id": 3213,
+            "timestamp": 1750964591,
+            "bullet_id": 204,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.05566840084,
+                197408.13122111224,
+                17960.083986922527
+            ],
+            "damage": 25
+        }
+    ],
+    "3217": [
+        {
+            "tick_id": 3217,
+            "timestamp": 1750964591,
+            "bullet_id": 205,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.05518835232,
+                197408.13131047954,
+                17960.083986922527
+            ],
+            "damage": 25
+        }
+    ],
+    "3221": [
+        {
+            "tick_id": 3221,
+            "timestamp": 1750964591,
+            "bullet_id": 206,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.05542801286,
+                197408.13126392354,
+                17960.08395640495
+            ],
+            "damage": 25
+        }
+    ],
+    "3225": [
+        {
+            "tick_id": 3225,
+            "timestamp": 1750964591,
+            "bullet_id": 207,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.0554287403,
+                197408.13126766824,
+                17960.08395640495
+            ],
+            "damage": 25
+        }
+    ],
+    "3229": [
+        {
+            "tick_id": 3229,
+            "timestamp": 1750964591,
+            "bullet_id": 208,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37222.05518835232,
+                197408.13131047954,
+                17960.08395640495
+            ],
+            "damage": 25
+        }
+    ],
+    "3533": [
+        {
+            "tick_id": 3533,
+            "timestamp": 1750964600,
+            "bullet_id": 209,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -32159.572265625,
+                191328.00390625,
+                16290.224609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3537": [
+        {
+            "tick_id": 3537,
+            "timestamp": 1750964600,
+            "bullet_id": 210,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31616.8125,
+                191229.14599609375,
+                16195.08984375
+            ],
+            "damage": 25
+        }
+    ],
+    "3541": [
+        {
+            "tick_id": 3541,
+            "timestamp": 1750964601,
+            "bullet_id": 211,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30714.9990234375,
+                191044.4091796875,
+                16047.25
+            ],
+            "damage": 25
+        }
+    ],
+    "3545": [
+        {
+            "tick_id": 3545,
+            "timestamp": 1750964601,
+            "bullet_id": 212,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30583.534057617188,
+                190992.521484375,
+                16024.900390625
+            ],
+            "damage": 25
+        }
+    ],
+    "3550": [
+        {
+            "tick_id": 3550,
+            "timestamp": 1750964601,
+            "bullet_id": 213,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30366.80535888672,
+                190926.0849609375,
+                16008.912109375
+            ],
+            "damage": 25
+        }
+    ],
+    "3554": [
+        {
+            "tick_id": 3554,
+            "timestamp": 1750964601,
+            "bullet_id": 214,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30316.151611328125,
+                190916.85400390625,
+                16009.8046875
+            ],
+            "damage": 25
+        }
+    ],
+    "3558": [
+        {
+            "tick_id": 3558,
+            "timestamp": 1750964601,
+            "bullet_id": 215,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30316.147521972656,
+                190916.853515625,
+                16009.8046875
+            ],
+            "damage": 25
+        }
+    ],
+    "3562": [
+        {
+            "tick_id": 3562,
+            "timestamp": 1750964601,
+            "bullet_id": 216,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30316.14617919922,
+                190916.85302734375,
+                16009.8046875
+            ],
+            "damage": 25
+        }
+    ],
+    "3566": [
+        {
+            "tick_id": 3566,
+            "timestamp": 1750964601,
+            "bullet_id": 217,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30468.610717773438,
+                190682.63037109375,
+                15994.740234375
+            ],
+            "damage": 25
+        }
+    ],
+    "3569": [
+        {
+            "tick_id": 3569,
+            "timestamp": 1750964601,
+            "bullet_id": 218,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30958.772979736328,
+                190536.69091796875,
+                15994.0390625
+            ],
+            "damage": 25
+        }
+    ],
+    "3573": [
+        {
+            "tick_id": 3573,
+            "timestamp": 1750964602,
+            "bullet_id": 219,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30958.774688720703,
+                190536.69140625,
+                15994.0390625
+            ],
+            "damage": 25
+        }
+    ],
+    "3577": [
+        {
+            "tick_id": 3577,
+            "timestamp": 1750964602,
+            "bullet_id": 220,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30958.769073486328,
+                190536.68994140625,
+                15994.037109375
+            ],
+            "damage": 25
+        }
+    ],
+    "3735": [
+        {
+            "tick_id": 3735,
+            "timestamp": 1750964606,
+            "bullet_id": 221,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30658.83367919922,
+                190299.9658203125,
+                15938.275390625
+            ],
+            "damage": 25
+        }
+    ],
+    "3738": [
+        {
+            "tick_id": 3738,
+            "timestamp": 1750964607,
+            "bullet_id": 222,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -32037.19411943358,
+                190627.24757857725,
+                16319.168612464753
+            ],
+            "damage": 25
+        }
+    ],
+    "3742": [
+        {
+            "tick_id": 3742,
+            "timestamp": 1750964607,
+            "bullet_id": 223,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30753.69970703125,
+                190373.3662109375,
+                15952.724609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3746": [
+        {
+            "tick_id": 3746,
+            "timestamp": 1750964607,
+            "bullet_id": 224,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30753.70166015625,
+                190373.36669921875,
+                15952.724609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3751": [
+        {
+            "tick_id": 3751,
+            "timestamp": 1750964607,
+            "bullet_id": 225,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30753.6943359375,
+                190373.365234375,
+                15952.724609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3755": [
+        {
+            "tick_id": 3755,
+            "timestamp": 1750964607,
+            "bullet_id": 226,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30753.700256347656,
+                190373.3662109375,
+                15952.724609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3759": [
+        {
+            "tick_id": 3759,
+            "timestamp": 1750964607,
+            "bullet_id": 227,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30753.701782226562,
+                190373.36669921875,
+                15952.724609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3763": [
+        {
+            "tick_id": 3763,
+            "timestamp": 1750964607,
+            "bullet_id": 228,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30753.696533203125,
+                190373.365234375,
+                15952.724609375
+            ],
+            "damage": 25
+        }
+    ],
+    "3766": [
+        {
+            "tick_id": 3766,
+            "timestamp": 1750964607,
+            "bullet_id": 229,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -31546.265625,
+                190566.94775390625,
+                16087.90625
+            ],
+            "damage": 25
+        }
+    ],
+    "3876": [
+        {
+            "tick_id": 3876,
+            "timestamp": 1750964611,
+            "bullet_id": 230,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -30478.154296875,
+                198640.6923828125,
+                16439.771484375
+            ],
+            "damage": 25
+        }
+    ],
+    "3878": [
+        {
+            "tick_id": 3878,
+            "timestamp": 1750964611,
+            "bullet_id": 231,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -38762.011193450104,
+                197126.1767417481,
+                18380.523685609074
+            ],
+            "damage": 25
+        }
+    ],
+    "3882": [
+        {
+            "tick_id": 3882,
+            "timestamp": 1750964611,
+            "bullet_id": 232,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -38784.462810830075,
+                197105.86019942575,
+                18339.394181527216
+            ],
+            "damage": 25
+        }
+    ],
+    "3886": [
+        {
+            "tick_id": 3886,
+            "timestamp": 1750964611,
+            "bullet_id": 233,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -38802.21805300616,
+                197098.5227706175,
+                18328.122406141807
+            ],
+            "damage": 25
+        }
+    ],
+    "3890": [
+        {
+            "tick_id": 3890,
+            "timestamp": 1750964611,
+            "bullet_id": 234,
+            "hit_actor": "BP_NPC_Base_C",
+            "hit_position": [
+                -38812.106921852705,
+                197092.54126423362,
+                18329.70908839255
+            ],
+            "damage": 25
+        }
+    ],
+    "3894": [
+        {
+            "tick_id": 3894,
+            "timestamp": 1750964611,
+            "bullet_id": 235,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37253.610321438166,
+                197337.640538762,
+                17925.421938582684
+            ],
+            "damage": 25
+        }
+    ],
+    "3898": [
+        {
+            "tick_id": 3898,
+            "timestamp": 1750964611,
+            "bullet_id": 236,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37198.49145819436,
+                197328.0505747108,
+                17960.08377329948
+            ],
+            "damage": 25
+        }
+    ],
+    "3902": [
+        {
+            "tick_id": 3902,
+            "timestamp": 1750964612,
+            "bullet_id": 237,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37198.45243761476,
+                197328.0582402667,
+                17960.07629649284
+            ],
+            "damage": 25
+        }
+    ],
+    "3906": [
+        {
+            "tick_id": 3906,
+            "timestamp": 1750964612,
+            "bullet_id": 238,
+            "hit_actor": "BP_Obstacle_C",
+            "hit_position": [
+                -37198.45038137175,
+                197328.05857753244,
+                17960.0757929528
+            ],
+            "damage": 25
+        }
+    ],
+    "3910": [
+        {
+            "tick_id": 3910,
+            "timestamp": 1750964612,
+            "bullet_id": 239,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -35108.5400390625,
+                197681.4140625,
+                17437.560546875
+            ],
+            "damage": 25
+        }
+    ],
+    "3915": [
+        {
+            "tick_id": 3915,
+            "timestamp": 1750964612,
+            "bullet_id": 240,
+            "hit_actor": "Landscape",
+            "hit_position": [
+                -35108.5546875,
+                197681.4443359375,
+                17437.564453125
+            ],
+            "damage": 25
+        }
+    ]
+}
